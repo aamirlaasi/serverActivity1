@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "_Two Servers App_ (Activity 1)",
+  "main": "activity1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamirlaasi/serverActivity1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aamirlaasi/serverActivity1/issues"
+  },
+  "homepage": "https://github.com/aamirlaasi/serverActivity1#readme"
+}
